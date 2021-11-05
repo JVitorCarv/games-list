@@ -2,3 +2,5 @@ CSGO
 VALORANT
 Fortnite
 Rainbow Six
+Minecraft
+Rocket League
